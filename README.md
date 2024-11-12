@@ -54,7 +54,3 @@ This means that the code is licensed under:
 - [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
 
 The GNU GPLv3 lets you to do almost anything you want with your project, except distributing closed source versions.
-
-
-
-
